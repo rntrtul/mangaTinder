@@ -6,7 +6,7 @@
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-scripts": "2.1.8",
-    "whatwg-fetch": "^3.0.0"
+    "whatwg-fetch": "^3.0.0"   //hi fareed
   },
   "scripts": {
     "start": "react-scripts start",
